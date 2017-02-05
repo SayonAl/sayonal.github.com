@@ -10,9 +10,9 @@ I am calm personality, with the overall ability, coordination ability and organi
 
 I like playing chess, painting, has strong self-learning ability and expression ability, can quickly accept and master new skills; with the spirit of teamwork and cooperation and win-win concept, able to quickly integrate into the new environment and new group.
 
+### Some Practice
 ```markdown
-# Campus Practice
-
+## Campus Practice
 - Innovative research projects of Provincial College Students
 - Project time: 2015.5--2016.5 project
 - name: research and development based on CTP trading platform
