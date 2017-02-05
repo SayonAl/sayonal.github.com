@@ -12,9 +12,11 @@ I like playing chess, painting, has strong self-learning ability and expression 
 
 ```markdown
 # Campus Practice
+
 - Innovative research projects of Provincial College Students
 - Project time: 2015.5--2016.5 project
 - name: research and development based on CTP trading platform
+
 ## Project description
 
 This project is based on the Shanghai stock exchange CTP trading platform for the development of a futures investment in independent investment software. Development using Visual Studio2010. Virtual investment can be real-time access to various futures trading data and quotes, etc..
@@ -22,7 +24,9 @@ This project is based on the Shanghai stock exchange CTP trading platform for th
 ### Responsibility description
 
 1. responsible for the project, responsible for the project and the understanding of the professional team
+
 2. responsible for the feasibility analysis of the project, the project schedule and test control and management, and is responsible for quantitative investment algorithm research.
+
 3. Analysis of the flow data structure, login, display interface design and production of MFC, for the technical staff of the software development plan to provide recommendations.
 
 ```
